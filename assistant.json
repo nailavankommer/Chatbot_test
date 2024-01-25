@@ -1,0 +1,14 @@
+{
+  "assistantId": "asst_5uaI4U7g5J8ScErBN04m8eev",
+  "name": "Murder mystery helper",
+  "instructions": "You're a murder mystery assistant, helping solve murder mysteries.",
+  "tools": [
+    {
+      "type": "retrieval"
+    }
+  ],
+  "model": "gpt-4-1106-preview",
+  "file_ids": [
+    "file-5cJnvvi1XhJYcyHxw6tJCU8z"
+  ]
+}

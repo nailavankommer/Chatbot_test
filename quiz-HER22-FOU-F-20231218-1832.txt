@@ -1,0 +1,1203 @@
+Lequel des éléments suivants n'est pas un élément méthodologique de HERMES 2022 ?
+A) Résultat
+B) Tâche
+C) Document
+D) Scénario
+ANSWER: C
+La méthode de gestion de projet HERMES 2022 est composée des éléments de méthode suivants :
+A) Initialisation, Conception, Réalisation, Déploiement, Clôture
+B) Développement informatique, Adaptation informatique, Développement de  la prestation / du  produit,  Adaptation de la prestation / du produit, Adaptation de l'organisation
+C) Phases, Scénarios, Modules, Résultats, Tâches, Rôles
+D) Pilotage, Conduite, Exécution
+ANSWER: C
+Qu'est-ce qui est correct concernant HERMES ?
+A) HERMES est une méthode prévue que pour les projets de taille limitée.
+B) HERMES ne permet pas d'adaptions aux besoins de l'organisation permanente.
+C) HERMES a été développé à l'EPFL adapté aux besoins de l'administration publique.
+D) HERMES est une méthode centrée sur les résultats.
+ANSWER: D
+Quel énoncé concernant les phases n'est pas correct ?
+A) Le modèle de phases HERMES pour les projets constitue la colonne vertébrale de chaque projet.
+B) Le modèle des phases se fonde sur le cycle de vie du projet.
+C) La phase de clôture termine le projet et règle la transition entre l'organisation du projet et l'organisation de l'application.
+D) Le modèle des phases pour les projets repose sur le cycle de vie du produit.
+ANSWER: D
+Le cadre HERMES ...
+A) ... superpose à la méthode choisie une structure qui donne à l'ensemble des projets une apparence homogène et transmet un même langage à tous les participants.
+B) ... assure le succès de chaque projet, quelle que soient sa nature ou sa complexité.
+C) ... permet de mettre en œuvre les projets agiles sans structures organisationnelles.
+D) ... évite de devoir se préoccuper des exigences de gouvernance de projet.
+ANSWER: A
+"HERMES gestion de projet" est ...
+A) ... est un élément de la méthode HERMES.
+B) ... est décliné en les éléments HERMES gestion de portefeuille, de programmes et d'applications.
+C) ... soutient le pilotage, la conduite et la réalisation de projets
+D) ... est plus important que HERMES gestion de portefeuilles et d'applications.
+ANSWER: A
+La gestion de projet HERMES est ...
+A) ... est une méthode de gestion complète pour l'exécution de projets et de programmes de toutes sortes dans de nombreux domaines.
+B)  ...une méthode de gestion complète pour l'exécution de projets, programmes et de portefeuilles de projets dans de nombreux domaines d'activité.
+C)  ...une méthode agile pour l'exécution de projets de taille importante dans de nombreux domaines d'activité.
+D)  ...une méthode de gestion structurée pour l'exécution de projets informatiques suivant une approche agile ou classique.
+ANSWER: A
+Les "Remarques concernant l'application" ...
+A) ... décrivent des aspects spécifiques de la gestion de projet HERMES.
+B) ... aident à agrandir la marge d'interprétation de la méthode.
+C) ... expliquent le développement classique en phases consécutives.
+D) ... décrivent comment appliquer les unités de réalisation avec l'approche agile.
+ANSWER: A
+Quelle est la subdivision du cycle de vie d'un projet HERMES ?
+A) Initialisation, Conception, Réalisation, Déploiement, Mise en œuvre, Clôture
+B) Début du projet, Création de la solution, Fin du projet
+C) Initialisation, Création de la solution, Clôture
+D) Début du projet, Concept, Réalisation, Clôture, Création de la solution, Fin du projet
+ANSWER: B
+Quelles phases constituent la Création de la solution avec une approche classique ?
+A) Conception, Mise en œuvre, Déploiement
+B) Conception, Réalisation, Déploiement
+C) Initialisation, Conception, Réalisation, Déploiement, Clôture
+D) Mise en œuvre
+ANSWER: B
+Le modèle des phases HERMES est constitué de …
+A) 3 phases
+B) 4 phases
+C) 3 ou 5 phases
+D) 4 ou 5 phases
+ANSWER: C
+La méthode de gestion de projet HERMES ...
+A) ... est une sorte d'enveloppe de projet dans laquelle peut être insérée une méthode de développement agile, qui fonctionne comme dans une boîte noire.
+B) ... décrit de manière détaillée les approches agile et classique pour l'exécution de projets
+C) ... est un cadre de gestion de projet remplaçant les méthodes de développement agile connues.
+D) ... est une méthode de projet qui préconise les méthodes de développement agiles SCRUM, Lean et SAFe.
+ANSWER: A
+La liste complète des phases HERMES est…
+A) Initialisation, Conception, Réalisation, Déploiement, Clôture
+B) Initialisation, Création de la solution, Conception, Réalisation, Déploiement, Clôture
+C) Initialisation, Conception, Réalisation, Déploiement, Mise en œuvre, Clôture
+D) Début du projet, Création de la solution, Fin du projet
+ANSWER: C
+Quel énoncé concernant la phase Initialisation est correct?
+A) Elle définit une situation de départ pour une création éventuelle de la solution et pour la clôture subséquente du projet.
+B) Durant la phase Initialisation, un prototype est développé afin de produire une solution tôt dans le projet.
+C) Il est nécessaire de procéder de manière agile durant la phase Initialisation comme les connaissances sur le projet ne sont pas encore assez développées.
+D) La préréception est effectuée durant la phase Initialisation.
+ANSWER: A
+A quel module du scénario "Adaptation de la prestation / du produit" appartient la tâche "Décider de la suite du projet"?
+A) A aucun des modules du scénario.
+B) Conduite du projet
+C) Bases du projet
+D) Pilotage du projet
+ANSWER: A
+A la fin de la phase de Réalisation …
+A) ... les risques liés au déploiement doivent être évalués et jugés acceptables..
+B) ... les dernières mesures d'assurance de la qualité sont prises.
+C) ... la réception du produit respectivement du système informatique a lieu.
+D) ... il est vérifié s'il est judicieux de réaliser le projet.
+ANSWER: A
+Laquelle des tâches suivantes appartient à la Création de la solution des scénarios Prestation / Produit?
+A) Décider de l'appel d'offres
+B) Décider de la clôture du projet
+C) Décider de la libération de l'exécution
+D) Elaborer le mandat de projet
+ANSWER: A
+Quel énoncé concernant les phases et jalons n'est pas correct?
+A) Le projet commence par le jalon "Libération de l'initialisation du projet".
+B) Le projet se termine avec le jalon "Clôture du projet".
+C) Il y a des jalons au début et à la fin de chaque phase.
+D) Chaque fin de phase est déterminée par un jalon, qui met en évidence la décision concernant la suite du projet.
+ANSWER: C
+Comment le modèle de phase HERMES soutient-il les approches classique et agile ?
+A) En offrant deux approches pour la Création de la solution.
+B) En offrant deux modèles de phase totalement distincts.
+C) En permettant une démarche agile à travers les 5 phases.
+D) En intégrant les trois phases classiques dans la mise en œuvre.
+ANSWER: A
+Qu'est ce qui est correct concernant le jalon "Mise en service" ?
+A) Il est dans la responsabilité du Mandant.
+B) Il n'existe qu'avec l'approche agile.
+C) Il est optionnel pour tous les scénarios.
+D) Il est de la responsabilité du représentant des utilisateurs.
+ANSWER: A
+Quel est l'objectif de la phase "Mise en œuvre" ?
+A) Lors de la phase d'initialisation, la variante retenue est mise en oeuvre par étape, de manière itérative et incrémentale.
+B) La variante retenue lors de la phase d'initialisation est concrétisée.
+C) Le produit ou le système est réalisé et testé. Les travaux préparatoires nécessaires sont effectués afin de réduire les risques lors du déploiement.
+D) Le plan de gestion et le mandat d'exécution du projet sont élaborés sur la base de la variante choisie et harmonisés avec les stratégies, les prescriptions et les objectifs généraux de l'organisation permanente.
+ANSWER: A
+Le jalon "Préréception" se trouve ...
+A) ... avec l'approche classique vers la fin de la phase de "Réalisation".
+B) ... au début de la phase de "Conception".
+C) ... dans la phase de "Clôture".
+D) ... dans aucune phase avec l'approche agile.
+ANSWER: A
+Quel énoncé concernant la phase de Conception avec l'approche classique est correct ?
+A) Le produit ou le système informatique est réalisé et testé.
+B) Un achat est toujours fait durant la phase de Conception.
+C) La variante retenue lors de la phase d'Initialisation est concrétisée.
+D) Les formations ont lieu durant la phase de Conception.
+ANSWER: C
+Durant la phase de "Conception" avec l'approche classique ...
+A) ... la "Suite du projet" est décidée.
+B) ... la variante retenue est mise en oeuvre par étape, de manière itérative et incrémentale.
+C) ... les résultats sont suffisamment détaillés pour que les participants disposent d'une base fiable afin de planifier, de faire une offre et de réaliser le projet.
+D) ... le plan de gestion et le mandat d'exécution du projet sont élaborés.
+ANSWER: C
+Quel énoncé concernant la phase classique de Déploiement est correct ?
+A) Les mesures de déploiement, telles que la formation des utilisateurs, sont réalisées.
+B) La phase de déploiement permet d'assurer une transition sûre vers le nouvel état.
+C) Le produit ou le système est réalisé.
+D) Les manuels d'utilisation sont conçus et élaborés.
+ANSWER: B
+Quels résultats sont élaborés durant la phase d'Initialisation ?
+A) Etude, Concept du produit, Plan de gestion de projet, Analyse des bases légales
+B) Etude, Analyse des bases légales, Analyse des besoins de protection, Concept d'organisation
+C) Etude, Analyse des appels d'offres, Liste des parties prenantes, Mandat d'exécution
+D) Concept du produit, Concept de déploiement, Concept d'organisation
+ANSWER: C
+Le premier jalon d'un projet HERMES 2022 s'appelle …
+A) Libération de l'initialisation du projet
+B) Libération du projet
+C) Libération de l'exécution
+D) Libération de la phase initialisation
+ANSWER: A
+Quel énonce concernant la phase de Réalisation est correct ?
+A) La décision concernant le la Suite du projet est prise.
+B) Les exigences sont concrétisées et complétées.
+C) On procède à la clôture du projet.
+D) La préréception est effectuée.
+ANSWER: D
+Quelle tâche n'appartient pas à la phase "Déploiement" du module "Organisation du déploiement" lorsqu'une approche classique est choisie ?
+A) Effectuer les mesures de déploiement
+B) Décider de la réception
+C) Décider de la préréception
+D) Décider de la mise en service
+ANSWER: C
+Aux libérations de phase …
+A) ... le chef de projet libère les ressources pour la phase de projet suivante.
+B) ... le projet ne peut pas être interrompu.
+C) ... le mandat d'exécution est adapté par le représentant des utilisateurs.
+D) ... les résultats de la phase sont examinés et acceptés ou refusés.
+ANSWER: D
+Un projet HERMES commence ...
+A) ...après la phase Initialisation.
+B) ... avec la phase Initialisation.
+C) ... avec la Création de la solution.
+D) ... avant la phase Initialisation.
+ANSWER: B
+La phase "Clôture" ...
+A) ... n'est pas nécessaire avec l'approche classique.
+B) ... est commune aux approches agile et classique.
+C) ... peut être omise si le mandant en décide ainsi.
+D) ... est différente selon qu'on suit une approche agile ou classique.
+ANSWER: B
+On parle aussi de "Quality Gate" ...
+A) ... pour tous les résultats qui représentent des états.
+B) ... pour les jalons de phase.
+C) ... pour les jalons décidés par le mandant.
+D) .... pour les jalons décidés par le représentant des utilisateurs.
+ANSWER: B
+La décision liée au jalon "Suite du projet" se trouve ...
+A) ... dans la phase Clôture".
+B) ... au niveau hiérarchique "Pilotage".
+C) ... dans la phase "Initialisation".
+D) ... au niveau "Organisation permanente".
+ANSWER: C
+Quel jalon n'appartient pas à un projet appliquant un des scénarios standards Prestation / Produit ?
+A) Réception de la migration
+B) Libération de l'exécution
+C) Libération de l'initialisation
+D) Suite du projet
+ANSWER: A
+Le jalon "Préréception" ...
+A) ... se trouve dans la phase Clôture.
+B) ... fait partie de la Création de la solution.
+C) ... n'existe pas avec l'approche agile.
+D) ... est dans la responsabilité du Mandant.
+ANSWER: B
+Quel est le nombre de jalons différents (obligatoires et optionnels) avec le scénario standard "Adaptation de la Prestation / du Produit" avec l'approche classique ou agile ?
+A) 14
+B) 11
+C) 12
+D) 13
+ANSWER: C
+Les jalons …
+A) ... sont des résultats.
+B) ... marquent les décisions du mandant.
+C) ... sont les mêmes dans tous les scénarios.
+D) ... précèdent les tâches de décision.
+ANSWER: A
+Quelle est la structure de la description des résultats selon HERMES ?
+A) Description / Structure / Explications / Format
+B) Description / Contenu / Relations / Modèles
+C) Description / Spécifique à HERMES / Contenu / Relations
+D) Description / Contenu / Risques / Relations
+ANSWER: B
+Quel énoncé concernant les résultats est correct ?
+A) Ils sont soit des documents, soit des jalons.
+B) Ils sont des éléments de moindre importance avec HERMES.
+C) Ils ne sont élaborés que durant la Création de la solution.
+D) Des tâches et des rôles leur sont attribués.
+ANSWER: D
+Les tâches …
+A) ... sont les éléments réutilisables des modules.
+B) ... sont composées de plusieurs activités.
+C) ... sont attribuées à exactement un module.
+D) ... élaborent les rôles.
+ANSWER: B
+Les tâches ...
+A) ... sont la même chose que les activités.
+B) ... sont attribuées à exactement un module.
+C) ... élaborent les résultats.
+D) ... sont toujours attribuées à un rôle qui en assume la responsabilité.
+ANSWER: D
+Qu'est-ce qui ne fait pas partie d'une description de tâche selon le manuel de référence HERMES imprimé ou PDF ?
+A) But
+B) Idée générale
+C) Activités
+D) Responsable
+ANSWER: D
+La liste des documents requis au minimum ...
+A) ... définit des documents minimaux qui sont nécessaires pour répondre aux exigences de la gouvernance.
+B) ... sont les résultats qui doivent obligatoirement être élaborés, indépendamment du scénario.
+C) ... ne sont que les documents qui sont contrôlés par les organes de révision.
+D) ... n'existe pas.
+ANSWER: A
+Les modules …
+A) ... contiennent des tâches et des résultats liés thématiquement.
+B) ... décrivent complètement la Création de la solution d’un projet.
+C) ... ne sont pas réutilisables dans plusieurs scénarios ou projets.
+D) ... sont composés de phases et de jalons.
+ANSWER: A
+Les modules …
+A) ... sont composés de jalons, de documents et de rôles.
+B) ... décrivent la Création de la solution du projet.
+C) ... sont les groupements arbitraires de résultats et de tâches.
+D) ... permettent de construire un projet et des scénarios.
+ANSWER: D
+Quel module ne fait pas partie de HERMES ?
+A) Infrastructure informatique
+B) Exploitation informatique
+C) Système informatique
+D) Achat
+ANSWER: A
+Le module "Organisation du déploiement" s'étend ...
+A) … sur la Création de la solution.
+B) ... de la phase conception à la phase déploiement.
+C) … de la phase initialisation à la phase clôture.
+D) … sur tout le projet.
+ANSWER: A
+Lequel des énoncés suivants concernant les modules est correct ?
+A) Les modules servent exclusivement à construire des scénarios.
+B) L'objectif des modules est de décrire la Création de la solution.
+C) Les modules sont des éléments méthodologiques qui permettent de construire un projet et des scénarios.
+D) Les modules décrivent le cycle de vie de la Création de la solution.
+ANSWER: C
+Quelle définition peut-on donner pour les modules ?
+A) Les modules sont axés sur l'exécution de projets ayant une caractéristique spécifique.
+B) Les modules sont limités à la Création de la solution.
+C) Un module est toujours utilisé de manière complète dans projet.
+D) Les modules contiennent des tâches et des résultats liés thématiquement.
+ANSWER: D
+L'organisation de projet …
+A) ... est indépendante de l’organisation permanente.
+B) ... est l'organisation du mandant et de l'utilisateur, dans laquelle le projet est intégré.
+C) ... est activée avec le mandat d'exécution du projet.
+D) ... est structurée en trois niveaux hiérarchiques.
+ANSWER: D
+Quels rôles appartiennent au niveau hiérarchique "Conduite" ?
+A) Comité spécialisé / Représentant des utilisateurs / Chef de projet
+B) Mandant / Chef de projet / Gestionnaire de la qualité et des risques
+C) Mandant / Chef de projet / Chef de sous-projet
+D) Assistance de projet / Chef de projet / Chef de sous-projet
+ANSWER: D
+Lequel des rôles suivants appartient au niveau hiérarchique "Exécution" ?
+A) Assistance de projet
+B) Représentant des utilisateurs
+C) Comité spécialisé
+D) Gestionnaire de la qualité et des risques
+ANSWER: B
+Quels rôles appartiennent au niveau hiérarchique "Exécution" ?
+A) Assistance au projet / Représentant des utilisateurs / Développeur
+B) Responsable d'exploitation / Représentant des utilisateurs / Assistance de projet
+C) Responsable de l'exploitation / Représentant des utilisateurs / Développeur
+D) Business Analyst / Architecte informatique / Chef de sous-projet
+ANSWER: C
+Quels rôles appartiennent au niveau hiérarchique "Exécution" ?
+A) Business Analyst / Architecte informatique / Chef de sous-projet
+B) Business Analyst / Architecte informatique / Testeur
+C) Assistance de projet / Représentant des utilisateurs / Développeur
+D) Responsable de l'exploitation / Représentant des utilisateurs / Assistance de projet
+ANSWER: B
+Lequel des rôles suivants appartient au niveau hiérarchique "Exécution" ?
+A) Chef de projet
+B) Gestionnaire de la qualité et des risques
+C) Comité de pilotage
+D) Représentant des utilisateurs
+ANSWER: D
+A quel partenaire est attribué le gestionnaire de la qualité et des risques ?
+A) Exploitant
+B) Producteur
+C) Utilisateur
+D) Utilisateur ou Producteur
+ANSWER: C
+A quel niveau hiérarchique appartient le rôle "Mandant" ?
+A) Organisation permanente
+B) Pilotage
+C) Conduite
+D) Exécution
+ANSWER: B
+Quels sont les niveaux hiérarchiques distingués par HERMES ?
+A) Pilotage / Conduite / Exécution
+B) Utilisateur / Producteur / Exploitant
+C) Conduite et exécution
+D) Pilotage / Conduite / Production
+ANSWER: A
+HERMES distingue les niveaux hiérarchiques …
+A) Conduite / Exécution
+B) Pilotage / Conduite / Exécution
+C) Conduite / Pilotage
+D) Organisation de projet / Organisation permanente
+ANSWER: B
+Une organisation de projet est …
+A) ... une organisation ad hoc, temporaire et interdisciplinaire qui collabore étroitement avec l'organisation permanente.
+B) ... un groupe permanent de personnes avec un but commun.
+C) ... une organisation ad hoc, temporaire et interdisciplinaire qui collabore étroitement avec la direction.
+D) ... une association d'utilisateurs de HERMES.
+ANSWER: A
+Quels rôles appartiennent au niveau hiérarchique "Pilotage" ?
+A) Mandant, Comité spécialisé
+B) Gestionnaire de la qualité et des risques, Assistance de projet
+C) Comité de pilotage, Gestionnaire de la qualité et des risques
+D) Comité de pilotage, Comité spécialisé
+ANSWER: C
+Quels rôles appartiennent au niveau hiérarchique "Pilotage" ?
+A) Mandant / Comité de pilotage / Gestionnaire de la qualité et des risques
+B) Mandant / Chef de projet / Gestionnaire de la qualité et des risques
+C) Mandant / Représentant des utilisateurs / Chef de projet
+D) Mandant / Chef de projet / Chef de sous-projet
+ANSWER: A
+Le modèle des rôles HERMES distingue les rôles ...
+A) ... des secteurs privé et public.
+B) ... des utilisateurs et des producteurs de services.
+C) ... du mandataire et du mandant.
+D) ... de l'organisation permanente et de l'organisation de projet.
+ANSWER: D
+Un rôle …
+A) ... peut être attribué à plusieurs niveaux hiérarchiques.
+B) ... est toujours attribué à exactement un groupe de partenaires.
+C) ... est attribué à un ou à plusieurs groupes de partenaires.
+D) ... n'est attribué ni à un niveau hiérarchique ni à un groupe de partenaires.
+ANSWER: C
+Quels rôles appartiennent au niveau hiérarchique "Exécution"?
+A) Business Analyst, représentant des utilisateurs, développeur
+B) Chef de sous-projet, business analyst, développeur
+C) Développeur, assistance de projet, comité spécialisé
+D) Comité spécialisé, spécialiste, business analyst
+ANSWER: A
+Quelle combinaison de rôle et niveau hiérarchique suivante est correcte ?
+A) Pilotage / Chef de projet
+B) Pilotage / Représentant des utilisateurs
+C) Conduite / Mandant
+D) Conduite / Chef de projet
+ANSWER: D
+Lequel des énoncés suivants concernant l'occupation des rôles est faux ?
+A) Les rôles sont attribués en fonction des exigences du projet.
+B) Une personne ne peut assumer qu'un seul rôle.
+C) L’occupation des rôles sont consignées dans le plan de gestion du projet.
+D) Une personne peut assumer plusieurs rôles.
+ANSWER: B
+Quel rôle est responsable du succès du développement sur le plan technique ?
+A) Mandant
+B) Chef de projet
+C) Représentant des utilisateurs
+D) Testeur
+ANSWER: C
+Quelle description correspond au rôle du représentant des utilisateurs ?
+A) Il gère les exigences de solutions techniques claires et concertées avec les domaines spécialisés pour qu'elles puissent servir de base à la réalisation.
+B) Il fait le lien entre les groupes de partenaires Utilisateurs et Producteurs ou Exploitants.
+C) Il dirige et coordonne le projet indépendamment de l'orientation technique de la solution et de l'approche de développement choisie.
+D) Il est responsable des résultats du projet et de l'atteinte des objectifs fixés dans les conditions-cadres.
+ANSWER: A
+N'est pas une responsabilité du chef de projet :
+A) Diriger la gestion de la qualité et des risques
+B) Assurer une utilisation économique et efficiente des ressources humaines et financières
+C) Assumer la responsabilité générale du projet et de l'atteinte des objectifs
+D) Mettre en oeuvre les décisions du pilotage et de la conduite
+ANSWER: C
+Lequel des énoncés suivants concernant les responsabilités du chef de projet est correct ?
+A) Il est responsable des résultats du projet et de l'atteinte des objectifs fixés dans les conditions-cadres..
+B) Il gère les exigences de solutions techniques claires et concertées avec les domaines spécialisés pour qu'elles puissent servir de base à la réalisation.
+C) Il dirige et coordonne la gestion du produit indépendamment de l'orientation technique de la solution et de l'approche de développement choisie.
+D) Il dirige et coordonne le projet indépendamment de l'orientation technique de la solution et de l'approche de développement choisie.
+ANSWER: D
+A quel niveau hiérarchique est attribué le rôle "Représentant des utilisateurs" ?
+A) Exécution
+B) Pilotage
+C) Conduite
+D) Le représentant des utilisateurs fait partie de l'organisation permanente.
+ANSWER: A
+Quelle description correspond au rôle "Chef de projet" ?
+A) Il dirige le projet sur mandat du mandant.
+B) Il soutient le mandant dans ses tâches.
+C) Il soutient le mandant en évaluant le projet de manière indépendante.
+D) Il organise et dirige les réunions du comité de pilotage.
+ANSWER: A
+Qu'est-ce qui est de la responsabilité du mandant ?
+A) Assurer une utilisation efficiente et durable des ressources
+B) Initier et piloter le projet
+C) Prendre toutes les décisions
+D) Diriger la gestion de la qualité et des risques
+ANSWER: B
+Le mandant est responsable ...
+A) ... de garantir que les objectifs correspondent aux stratégies, aux prescriptions et aux objectifs supérieurs de l'organisation permanente
+B) ... de soutenir le chef de projet en évaluant des résultats.
+C) ... d'identifier les parties prenantes, les recruter pour le projet et analyser leurs intérêts fondamentaux
+D) ... d'impliquer en temps voulu les organes de prescriptions et de contrôle de gestion
+ANSWER: A
+Lequel des énoncés suivants concernant le module Achat avec l'approche classique est correct ?
+A) Les décisions sur l'appel d'offres et l'adjudication sont sous la responsabilité du mandant.
+B) Les activités (hors prises de décision) du module Achat sont sous la responsabilité du représentant des utilisateurs et sont exécutées au début de la phase de mise en oeuvre.
+C) Le représentant des utilisateurs n'a aucune responsabilité dans le module Achat.
+D) Les activités du module Achat sont toutes sous la responsabilité du représentant des utilisateurs et sont exécutées au début de la phase de conception.
+ANSWER: A
+L'organisation permanente …
+A) ... est structurée en trois niveaux hiérarchiques.
+B) ... représente les structures organisationnelles du mandant, dans lesquelles le projet est intégré.
+C) ... consiste des groupes de rôle "Direction", "Assistance de projet" et "Organes de prescription et de contrôle de gestion".
+D) ... contient les rôles mandant et représentant des utilisateurs.
+ANSWER: B
+Quelles trois groupes de rôle y a-t-il dans l'organisation permanente ?
+A) Direction, Project Management Office (PMO), Organes de prescription et de contrôle de gestion
+B) Gestion de portefeuille, PMO, Contrôle financier
+C) Direction, Centre de compétences Gestion de projets, Organes de prescription et de contrôle de gestion
+D) Direction du service, Project Management Office (PMO), Organes de contrôle
+ANSWER: C
+A quel groupe de partenaires le chef de projet est-il attribué ?
+A) Utilisateur
+B) Utilisateur ou producteur
+C) Exploitant
+D) Producteur
+ANSWER: A
+Lequel des énoncés suivants concernant l'attribution des rôles n'est pas correct ?
+A) Une personne peut assumer plusieurs rôles.
+B) L’occupation des rôles est consignée dans le plan de gestion du projet.
+C) Les rôles sont attribués en fonction des exigences du projet.
+D) Un rôle ne peut pas être assumé par plusieurs personnes.
+ANSWER: D
+A quel partenaire le mandant est-il attribué ?
+A) Utilisateur
+B) Producteur
+C) Exploitant
+D) Fournisseur
+ANSWER: A
+Le rôle de chef de projet …
+A) ... est attribué au groupe de partenaires "Utilisateur".
+B) ... est attribué au groupe de partenaires "Producteur".
+C) ... est attribué au groupe de partenaires "Exploitant".
+D) ... peut être attribué soit au groupe de partenaires "Utilisateur" ou au groupe de partenaires "Producteur".
+ANSWER: A
+Quelle description correspond au rôle "Mandant" ?
+A) Le mandant est responsable des résultats du projet et de l'atteinte des objectifs fixés dans les conditions-cadres.
+B) Le soutient assiste le chef de projet dans ses tâches.
+C) Le mandant soutient le gestionnaire de la qualité et des risques par son évaluation indépendante du projet.
+D) Le mandant prend en charge les aspects de la sécurité de l'information et de la protection des données dans le projet.
+ANSWER: A
+Qu'est qu'un programme ?
+A) Un programme est l'ensemble des projets et portefeuilles gérés par une organisation.
+B) Un programme comprend plusieurs projets qui poursuivent un objectif commun.
+C) Un programme comprend tous les projets qui sont conduits par le même chef de projet..
+D) Un programme est l'ensemble des projets sous la surveillance du même PMO commun.
+ANSWER: B
+Quel est le rôle du chef de programme dans l'organisation de programme 1 ?
+A) Soutient le mandant du programme en évaluant le programme de manière indépendante et en lui recommandant des mesures permettant d'atteindre les objectifs du programme.
+B) Se substitue au mandant du projet afin de garantir la mise en œuvre des décisions prises par le mandant du programme.
+C) Pilote les projets dans la perspective générale du programme et se concerte en permanence avec le mandant du programme.
+D) Dirige et coordonne le projet et le chef de projet du point de vue supérieur du programme et se coordonne en permanence avec le mandant.
+ANSWER: D
+Les scénarios …
+A) ... sont les composants des modules.
+B) ... sont orientés vers le développement de solutions, indépendamment de leurs caractéristiques spécifiques.
+C) ... décrivent différentes situations de départ possibles de projets.
+D) ... contiennent par défaut les éléments de méthode qui sont habituellement importants pour les projets du même type.
+ANSWER: D
+Quel scénario standard est à disposition pour un projet visant à mettre en place de nouvelles organisations ou à adapter celles qui existent déjà ?
+A) Adaptation de l'organisation
+B) Organisation
+C) Structures organisationnelles
+D) Modification de l'organisation
+ANSWER: A
+Combien de scénarios standards sont définis pour HERMES ?
+A) 8
+B) 6
+C) 7
+D) 5
+ANSWER: D
+Quelle est une possibilité pour adapter un scénario existant ?
+A) Dimensionnement
+B) Tayloring
+C) Scaling
+D) Refactoring
+ANSWER: A
+Quel scénario doit un chef de projet choisir pour mettre en place de nouvelles organisations ou à adapter celles qui existent déjà ?
+A) Adaptation organisationnelle
+B) Adaptation de l'organisation
+C) Structures organisationnelles
+D) Intégration organisationnelle
+ANSWER: B
+Comment peut-on adapter un scénario HERMES existant ?
+A) Regrouper des modules.
+B) Supprimer une phase.
+C) Intégrer un module spécifique supplémentaire.
+D) Renommer des tâches.
+ANSWER: C
+Les scénarios et modules définis HERMES …
+A) ... ne doivent pas être modifiés afin de préserver la logique de la méthode.
+B) ... peuvent être complétés de résultats, mais il n'est pas permis d'en supprimer. 
+C) ... peuvent être redimensionnés moyennant le Découpage.
+D) ... sont des synonymes pour le même élément de la méthode.
+ANSWER: B
+Lequel des rapports suivants est produit de manière périodique ?
+A) Rapport sur l'état du projet
+B) Rapport de phase
+C) Rapport de release
+D) Evaluation finale du projet
+ANSWER: A
+Lequel des rapports suivants est produit lorsqu'une solution est achevée avec l'approche classique (clôture de la phase de Réalisation) ?
+A) Rapport de phase
+B) Rapport de release
+C) Rapport de mise en service
+D) Rapport sur l'unité de réalisation
+ANSWER: A
+Avec quelles étapes les ressources sont-elles libérées par le Mandant dans un projet agile ?
+A) Une libération des finances par étapes n'est pas nécessaire.
+B) Le plafond des ressources est défini dans le Mandat d'initialisation.
+C) Les ressources sont libérées dans les phases Initialisation, Mise en oeuvre et Clôture.
+D) La Direction de l'Organisation permanente libère les ressources par le Mandat d'exécution.
+ANSWER: A
+Quel est le rôle principal pour défendre les intérêts de son organisation permanente dans le projet ?
+A) Mandant
+B) Chef de projet
+C) Représentant des utilisateurs
+D) Comité de pilotage
+ANSWER: A
+Par quels critères d'adjudication est-ce que HERMES accorde une attention particulière aux marchés publics pour soutenir la durabilité ?
+A) Par des critères d'adjudication écologiques et sociaux
+B) Par des critères d'égalité et d'indépendance.
+C) Par des critères alignés aux normes internationales.
+D) Par des critères conformes à l'Organisation Mondiale du Commerce (WTO).
+ANSWER: A
+A quoi servent les listes de contrôle ?
+A) Pour définir des tâches de décision.
+B) Pour établir l'organisation de projet.
+C) Pour aider à la prise de décision
+D) Pour élaborer la planification.
+ANSWER: C
+Laquelle des descriptions suivantes correspond à la "Liste de contrôle" ?
+A) Elles ont toujours la même structure.
+B) Elles ne doivent pas être étendues.
+C) Elles sont utilisées pour aider à la prise de décision.
+D) Elles sont élaborées par le mandant.
+ANSWER: C
+À quoi les listes de contrôle aident-elles le chef de projet ?
+A) À la préparation systématique des prises de décisions.
+B) À l'établissement cohérent de l'organisation de projet.
+C) À l'élaboration de la planification des jalons.
+D) À la définition systématique des mandats de travail.
+ANSWER: A
+Le projet "KnowFuture" approche de la fin de la phase d'initialisation. L'objectif du projet est de consolider le portefeuille de projets de votre entreprise.L'organisation du projet pour la phase d'initialisation est la suivante :	* Mandant : Monsieur Amherd, chef du département Logistique.	* Chef de projet : vous (collaborateur du département Logistique)	* Représentant des utilisateurs : Anne Levier (collaboratrice du département Logistique)	* Responsable qualité et gestion des risques : Georges Kieffer (contrôleur de gestion du département logistique)	* Comité de projet : Martine Frick (responsable du département Finances), Dave Stiff (responsable du CEO Office), Patrick Hammer (responsable du département Ressources humaines) et Louis Brillant (responsable du département Distribution).	* La décision sur la "Suite du projet" a débouché sur une variante de solution, le scénario "Adaptation de la prestation/du produit" ainsi qu'une approche agile.Sur la base de cette situation, quelle affirmation n'est pas correcte selon HERMES 2022 ?
+A) Les rôles de mandant, de chef de projet et de représentant des utilisateurs ont été attribués conformément aux principes de HERMES 2022.
+B) Aucun conflit d'objectifs n'est apparent dans l'attribution des rôles.
+C) Pour la phase de mise en œuvre, au moins un autre rôle doit être occupé.
+D) Aucun "comité spécialisé" n'est requis pour la phase suivante.
+ANSWER: B
+Le projet "KnowFuture", dont l'objectif est l'archivage numérique des documents dans votre entreprise, doit être initialisé prochainement.Vous discutez avec votre supérieure, Madame Nüssli, de l'attribution des rôles dans le futur projet. Madame Nüssli se prépare actuellement à une certification HERMES et souhaite acquérir de l'expérience pratique. C'est pourquoi elle vous propose de jouer le rôle de mandant et souhaite assumer elle-même le rôle de chef de projet.Quelle affirmation est correcte dans cette situation selon HERMES 2022 ?
+A) C'est une bonne proposition, car vous représentez tout de même le même service que votre supérieur.
+B) Parce que vous êtes certifié HERMES Advanced, vous êtes parfaitement qualifié pour jouer le rôle de mandant.
+C) Cette attribution de rôle n'est pas adaptée car, contrairement à votre supérieur hiérarchique, vous n'occupez pas une position suffisamment élevée dans la hiérarchie de l'organisation permanente pour pouvoir assurer cette représentation.
+D) L'attribution des rôles n'est pas correcte, car votre supérieure, en tant que chef de projet, aurait un conflit d'intérêts.
+ANSWER: C
+Pour le projet "Balance", qui a pour but d'introduire une nouvelle réglementation du temps de travail, la procédure classique a été choisie. La direction de l'organisation permanente a désigné M. Meier, chef du service du personnel, comme mandant. Vous êtes un collaborateur du service du personnel et vous avez été désigné par M. Meier comme chef de projet et représentant des utilisateurs. Comme M. Meier possède une grande expérience du contrôle de gestion acquise lors d'un précédent emploi, il souhaite également assumer le rôle de "gestionnaire de la qualité et des risques".Les rôles ont-ils été correctement attribués ? Choisissez la meilleure réponse possible.
+A) Non, il y a au moins un rôle incompatible avec HERMES 2022.
+B) Oui, l'attribution des rôles est conforme aux exigences de HERMES 2022.
+C) Non, il manque un rôle à remplir au minimum selon HERMES 2022.
+D) Oui, mais il manque un rôle minimal à remplir selon HERMES 2022.
+ANSWER: A
+L'objectif du projet ECM est de digitaliser l'archivage des documents dans votre entreprise. Il se trouve actuellement dans la phase d'initialisation.Le mandant, Madame Nüssli, vous a nommé chef de projet. Les autres membres de l'organisation de projet pour la phase d'initialisation sont le gestionnaire de la qualité et des risques Johann Meier, le représentant des utilisateurs Sylvie Jacquard, ainsi qu'un comité de pilotage du projet.Lors de la décision "Suite du projet", vous avez choisi le scénario "Développement de la prestation/du produits" ainsi qu'une approche agile.Sur la base de cette situation, quelle affirmation est correcte selon HERMES 2022 ?
+A) Pour la phase suivante du projet, il faut remplir d'autres rôles dans l'organisation du projet qui n'appartiennent pas aux rôles minimaux.
+B) Pour la prochaine phase du projet, d'autres rôles minimaux doivent être attribués.
+C) Le scénario choisi n'est pas compatible avec l'approche définie.
+D) L'approche choisie ne correspond pas à la situation de départ d'un point de vue méthodologique.
+ANSWER: A
+Un des principaux thèmes du module "Bases du projet" est ...
+A)  ... créer les conditions nécessaires à l'élaboration du plan de gestion du projet et du mandat d'exécution.
+B) ... élaborer le Plan de gestion de projet ainsi que le Mandat de projet.
+C) ... planifier et procéder à des appels d'offres.
+D) ... assurer la disponibilité de l'infrastructure nécessaire pour le projet.
+ANSWER: A
+Le module "Organisation" …
+A) ... traite des indicateurs de performance.
+B) ... définit l'organisation de projet.
+C) ... adapte ou conçoit les structures organisationnelles, les réalise et les déploie
+D) ... s'occupe de la nouvelle réglementation du temps de travail.
+ANSWER: C
+Quelle description correspond au module "Achat" ?
+A) Le module Achat est destiné à l'acquisition ciblée par une procédure ouverte ou sélective d' un système, d'un produit ou d'un service disponible sur le marché.
+B) Le module Achat prend en compte et intègre les souhaits des parties prenantes, prendre des décisions concernant les risques
+C) Le module Achat sert à laborer le concept du produit et développer ou adapter le produit
+D) Le module Achat sert à valider la préréception et la réception
+ANSWER: A
+Un des axes principaux du module "Conduite du projet" est ...
+A) Elaborer l’étude afin de pouvoir prendre la décision sur la Suite du projet.
+B) Effectuer une Analyse de l’appel d’offres, si un achat suivi d’une adaptation est prévu.
+C) Prendre en compte et intégrer les demandes des parties prenantes, prendre des décisions concernant les risques.
+D) Faire adhérer les parties prenantes au projet et les informer
+ANSWER: D
+N'est pas un point essentiel du module "Organisation du déploiement" :
+A) Réaliser la gestion du changement organisationnel
+B) Procéder à la préréception et à la réception
+C) Réaliser et introduire une organisation.
+D) Réaliser et mettre en oeuvre les mesures de déploiement et l'organisation du déploiement.
+ANSWER: C
+Qu'est-ce qui n'est pas traité dans le module "Bases du projet" ?
+A) Elaborer l'étude afin de pouvoir prendre la décision de poursuivre la procédure
+B) Clarifier les bases légales et analyser les besoins de protection
+C) Créer les conditions nécessaires à l'élaboration du plan de gestion du projet et du mandat d'exécution
+D) Elaborer le concept de test
+ANSWER: D
+Quelle description correspond au module "Bases du projet" ?
+A) Elaborer l'étude afin de pouvoir prendre la décision de poursuivre la procédure
+B) Prendre en compte et intégrer les demandes des parties prenantes, gérer les risques et prendre les décisions
+C) Elaborer le concept du produit et développer ou adapter le produit
+D) Procéder à la préréception et la réception
+ANSWER: A
+Quelle description correspond au module "Conduite du projet" ?
+A) Elaborer le concept du produit et développer ou adapter le produit
+B) Réaliser / intégrer et documenter un système informatique
+C) Elaborer l’étude afin de pouvoir prendre la décision sur la suite du projet
+D) Faire adhérer les parties prenantes au projet et les informer
+ANSWER: D
+Quelle description correspond au module "Organisation du déploiement" ?
+A) Elaborer l'étude afin de pouvoir prendre la décision de poursuivre la procédure.
+B) Prendre en compte et intégrer les demandes des parties prenantes, prendre des décisions concernant les risques, prendre des décisions de pilotage
+C) Elaborer le concept du produit et développer ou adapter le produit
+D) Procéder à la préréception et à la réception
+ANSWER: D
+Quelle description correspond au module "Pilotage du projet" ?
+A) Elaborer l'étude afin de pouvoir prendre la décision de poursuivre la procédure.
+B) Prendre en compte et intégrer les demandes des parties prenantes, prendre des décisions concernant les risques
+C) Elaborer le concept du produit et développer ou adapter le produit
+D) Procéder à la préréception et à la réception
+ANSWER: B
+Quelle description correspond au module "Produit" ?
+A) Elaborer l'étude afin de pouvoir prendre la décision de poursuivre la procédure
+B) Prendre en compte et intégrer les demandes des parties prenantes, prendre des décisions concernant les risques
+C) Elaborer le concept du produit et développer ou adapter le produit
+D) Procéder à la préréception et à la réception
+ANSWER: C
+Quel énoncé concernant le concept de déploiement est correct ?
+A) Le concept de déploiement décrit la dissolution de l'Organisation de projet.
+B) Le concept de déploiement représente la base pour le concept de migration.
+C) Le concept de déploiement est élaboré lors de la phase Initialisation.
+D) Le concept de déploiement décrit les mesures pour le déploiement de la solution et l’organisation du déploiement.
+ANSWER: D
+La tâche "Décider de la réception" appartient au module ...
+A) Pilotage du projet
+B) Conduite du projet
+C) Organisation du déploiement
+D) Tests
+ANSWER: C
+La tâche "Conduire l'assurance de la qualité" appartient au module ...
+A) Tests
+B) Assurance de la qualité
+C) Pilotage du projet
+D) Conduite du projet
+ANSWER: D
+Complétez correctement la phrase suivante : La tâche "Décider de la réception" ...
+A) ... appartient à la phase "Clôture".
+B) … met fin à la fourniture de la prestation.
+C) … est exécutée par le rôle Représentant des utilisateurs.
+D) … est exécutée avant la Mise en service.
+ANSWER: B
+Le résultat suivant appartient au module "Bases du projet" :
+A) Mandat d'exécution
+B) Plan de gestion du projet
+C) Analyse de la situation
+D) Etude
+ANSWER: D
+Quelle tâche appartient au module "Bases du projet" ?
+A) Elaborer le concept de l'organisation
+B) Elaborer l'étude
+C) Elaborer le concept de déploiement
+D) Elaborer le concept du produit
+ANSWER: B
+Quels résultats sont élaborés dans le module "Bases du projet" ?
+A) Etude, Analyse des bases légales, Analyse des besoins de protection
+B) Etude, Concept du produit, Mandat d'exécution
+C) Etude, Analyse des bases légales, concept SIPD
+D) Etude, Analyse des bases légales, Concept SIPD, Analyse des besoins de protection
+ANSWER: A
+Quelle tâche n'appartient pas au module "Conduite du projet" ?
+A) Conduire et contrôler le projet
+B) Définir et piloter les prestations
+C) Préparer la libération de la phase
+D) Piloter le projet
+ANSWER: D
+Quel résultat n'appartient pas au module "Conduite du projet" ?
+A) Demande de modification
+B) Rapport sur l'état du projet
+C) Procès-verbal de réception
+D) Mandat d'exécution
+ANSWER: C
+Laquelle des tâches suivantes n'appartient pas au module "Conduite du projet" ?
+A) Traiter les problèmes et mettre à profit les expériences
+B) Conduire l'assurance de la qualité
+C) Elaborer l'étude
+D) Gérer les risques
+ANSWER: C
+Quelle tâche n'appartient pas au module "Conduite du projet" ?
+A) Elaborer le mandat d'exécution
+B) Elaborer l'étude
+C) Traiter les problèmes et mettre à profit les expériences
+D) Préparer la clôture du projet
+ANSWER: B
+Dans l'approche classique, quels résultats sont élaborés durant la phase Conception avec les scénarios Prestation/Produit ?
+A) Mandat d'exécution, Manuel d'utilisation
+B) Concept du produit, Spécification détaillée
+C) Description de processus, Liste des parties prenantes
+D) Concept d'organisation, Description de processus
+ANSWER: D
+Laquelle des tâches suivantes n'appartient pas au module "Conduite du projet" ?
+A) Conduire et contrôler le projet
+B) Conduire l'assurance de la qualité
+C) Gérer les risques
+D) Piloter le projet
+ANSWER: D
+Laquelle des tâches suivantes n'appartient pas au module "Conduite du projet" ?
+A) Elaborer le concept SIPD
+B) Gérer les risques
+C) Préparer la clôture du projet
+D) Traiter les problèmes et mettre à profit les expériences
+ANSWER: A
+Le résultat suivant est attribué au module "Organisation du déploiement" :
+A) Procès-verbal de réception
+B) Organisation de projet
+C) Concept d'organisation
+D) Description de processus
+ANSWER: A
+Comment s'appelle une des tâches du module "Organisation du déploiement" ?
+A) Activer l'organisation
+B) Exécuter les tests
+C) Décider de la préréception
+D) Décider de la clôture du projet
+ANSWER: C
+A quel résultat du module "Organisation du déploiement" correspond la description suivante : "En font partie, entre autres, les mesures de gestion du changement organisationnel pour visant à la transition vers le nouvel état, le concept de formation, la planification des réceptions avec les critères de réception ainsi que les critères de libération de la mise en service." ?
+A) Procès-verbal de réception
+B) Concept de déploiement
+C) Mesures de déploiement exécutées
+D) Mesures de déploiement réalisées
+ANSWER: B
+Quelle tâche n'appartient pas au module "Organisation du déploiement" ?
+A) Effectuer les mesures de déploiement
+B) Elaborer le concept de déploiement
+C) Décider de la préréception
+D) Décider de la libération de la phase de clôture
+ANSWER: D
+Le module "Organisation du déploiement" comprend ...
+A) ... la gestion des risques.
+B) ... la gestion du changement organisationnel.
+C) ... la réalisation/intégration et la documentation d'un système informatique.
+D) ... concevoir, préparer, exécuter et documenter les tests.
+ANSWER: B
+Quelle tâche appartient à la phase "Conception" du module "Organisation du déploiement" ?
+A) Elaborer le concept de déploiement
+B) Réaliser les mesures de déploiement
+C) Décider de la mise en service
+D) Décider de la préréception
+ANSWER: A
+Quelle tâche n'appartient pas au module "Pilotage du projet" ?
+A) Piloter le projet
+B) Décider de la libération de l'initialisation du projet
+C) Décider de la libération de la phase
+D) Décider de la réception
+ANSWER: D
+Quelle tâche n'appartient pas au module "Pilotage du projet" ?
+A) Décider de la libération de l'initialisation du projet
+B) Décider de la libération de la phase
+C) Gérer les risques
+D) Piloter le projet
+ANSWER: C
+Quel résultat sert de cadre et de base contraignante pour la libération de la Création de la solution ?
+A) Mandat d'exécution
+B) Mandat d'initialisation du projet
+C) Etude
+D) Jalon suite du projet
+ANSWER: A
+Quel résultat est élaboré durant la phase "Conception" du module "Produit" ?
+A) Concept du produit
+B) Documentation du produit
+C) Manuel d'utilisation
+D) Produit activé
+ANSWER: A
+Quelle tâche fait partie du module "Produit" ?
+A) Traiter le concept du produit
+B) Adapter le concept du produit
+C) Elaborer le concept du produit
+D) Etablir le concept du produit
+ANSWER: C
+Quel résultat décrit la prestation ou le produit créé dans le module "Produit" ?
+A) Mandat d'exécution
+B) Concept du produit
+C) Liste des exigences
+D) Mandat d'initialisation du projet
+ANSWER: B
+Quel résultat représente la base contraignante pour la libération de l'exécution ?
+A) Etude
+B) Mandat d'exécution
+C) Mandat d'initialisation du projet
+D) Concept SIPD
+ANSWER: B
+Dans quel résultat sont documentées les principales dispositions concernant les méthodes, les techniques, les rôles et les outils qui sont définis spécifiquement pour le projet ?
+A) Rapport sur l'état du projet
+B) Plan de gestion du projet
+C) Liste des parties prenantes
+D) Procès-verbal de réception
+ANSWER: B
+Quelles tâches sont accomplies durant la phase "Initialisation" du module "Organisation" ?
+A) Elaborer le concept d'organisation
+B) Réaliser l'organisation
+C) Aucune tâche n'est prévue pour cette phase
+D) Activer l'organisation
+ANSWER: C
+Quelle tâche appartient au module "Organisation" ?
+A) Décider de la mise en service
+B) Evaluer l'organisation
+C) Réaliser l'organisation
+D) Activer le produit
+ANSWER: C
+Quel résultat n'appartient pas au module "Organisation" ?
+A) Description de l'organisation
+B) Description de processus
+C) Mesures de déploiement exécutées
+D) Organisation mise en oeuvre
+ANSWER: C
+Quelles tâches sont accomplies durant la phase "Réalisation" du module "Achat" ?
+A) Décider de l'appel d'offres
+B) Effectuer l'appel d'offres
+C) Elaborer l'accord
+D) Aucune tâche n'est prévue dans cette phase
+ANSWER: D
+Quel tâche n'appartient pas au module "Achat" ?
+A) Décider de l'adjudication
+B) Effectuer l'appel d'offres
+C) Représenter les intérêts des parties prenantes
+D) Elaborer l'appel d'offres
+ANSWER: C
+Quel énoncé concernant le résultat "Mandat d'exécution" est correct ?
+A) Le Mandat d'exécution est la condition nécessaire à l’élaboration du plan de gestion du projet.
+B) Le Mandat d’éxecution est un accord contraignant entre le mandant et le chef de projet.
+C) La phase Initialisation ne peut commencer que lorsque le Mandat d'exécution est disponible.
+D) A la fin de chaque phase ou release, le Mandat d'exécution est revisité et ajusté à la situation actuelle.
+ANSWER: B
+Quel résultat n'appartient pas au module "Achat" ?
+A) Procès-verbal des offres
+B) Publication
+C) Accord
+D) Liste Décisions de conduite
+ANSWER: D
+Quel résultat appartient au module "Achat" ?
+A) Rapport d'évaluation
+B) Liste Décisions de conduite
+C) Liste des parties prenantes
+D) Concept d'appel offres
+ANSWER: A
+Quel résultat est à la base de la gestion des parties prenantes et de la planification de la communication ?
+A) Concept de communication
+B) Plan de communication
+C) Intérêts des parties prenantes
+D) Liste des parties prenantes
+ANSWER: D
+Quel résultat contient la planification générale du projet ainsi que les principales dispositions concernant les méthodes, les techniques, les rôles et les outils qui sont définis spécifiquement pour le projet ?
+A) Mandat d'exécution
+B) Mandat de travail
+C) Liste de contrôle
+D) Plan de gestion du projet
+ANSWER: D
+Quel résultat n'est pas élaboré durant la Création de la solution du module "Produit" ?
+A) Produit développé ou adapté
+B) Documentation du produit
+C) Prototype réalisé
+D) Description de processus
+ANSWER: D
+Comment s'appellent les 3 jalons dans la responsabilité du Représentant des utilisateurs dans les scénarios Prestation / Produit ?
+A) Appel d'offres, Concept du produit, Préréception
+B) Préréception, Mise en service, Réception
+C) Appel d'offres, Concept du produit, Concept de l'organisation
+D) Il n'est responsable pour aucun jalon.
+ANSWER: D
+Une tâche du module "Bases du projet" s'appelle ...
+A) Décider le choix d'une variante
+B) Elaborer l'analyse des besoins de protection
+C) Elaborer le mandat d'exécution
+D) Elaborer le plan de gestion de projet
+ANSWER: B
+Quelle décision est prise au niveau "Pilotage" ?
+A) Suite du projet
+B) Préréception
+C) Mise en service
+D) Réception
+ANSWER: C
+A quel partenaire est attribué le rôle "Responsable de l'exploitation" ?
+A) Exploitant
+B) Producteur
+C) Utilisateur
+D) Utilisateur et producteur
+ANSWER: A
+Quel est un point commun des rôles "Responsable de l'exploitation" et "Développeur" dans le module "Organisation du déploiement" ?
+A) Ils ne sont pas impliqués dans le module.
+B) Ils prennent la décision de mise en service.
+C) Ils ne sont responsables pour aucune tâche du module.
+D) Ils sont responsables pour la tâche "Elaborer le concept de déploiement".
+ANSWER: C
+Dans une approche classique, qui libère les ressources financières lors de la libération de la phase ?
+A) Mandant
+B) Chef de projet
+C) Comité de pilotage
+D) Direction
+ANSWER: A
+Quel énoncé est correct concernant le concept du produit avec l'approche agile ?
+A) La décision sur le concept du produit est prise par le chef de projet, soutenu par le représentant des utilisateurs.
+B) L’élaboration du concept du produit est la responsabilité du représentant des utilisateurs.
+C) La décision sur le concept du produit est prise par le représentant des utilisateurs, conseillé par le business analyst.
+D) L’élaboration du concept du produit est la responsabilité de l'équipe de développement.
+ANSWER: A
+Quel point commun ont les rôles "Responsable de l'exploitation" et "Développeur" dans le module "Organisation du déploiement" ?
+A) Ils ne sont responsables d'aucune des tâches contenues dans le module.
+B) Ils sont responsables de la tâche "Elaborer le concept de déploiement".
+C) Ils ne sont pas concernés par le module.
+D) Ils sont responsables de la décision concernant la mise en service.
+ANSWER: A
+De quelles tâches du module "Organisation du déploiement" le "Représentant des utilisateurs" est-il responsable ?
+A) Il n'a aucune responsabilité dans ce module.
+B) Elaborer le concept de déploiement, Réaliser mesures de déploiement, Effectuer mesures de déploiement
+C) Décider de la préréception, Décider de la réception
+D) Décider de la mise en service
+ANSWER: B
+Les tâches de décision …
+A) ... appartiennent toutes au module "Pilotage du projet".
+B) ... décrivent les tâches du Mandant.
+C) ... appartiennent toutes au module "Conduite du projet".
+D) ... sont réparties sur plusieurs modules.
+ANSWER: D
+Quel rôle est responsable pour l'analyse du besoin de protection ?
+A) Business Analyst
+B) Architecte informatique
+C) Chef de projet
+D) Responsable SIPD
+ANSWER: D
+Quel rôle est responsable pour le concept de l'organisation ?
+A) Business Analyst
+B) Architecte informatique
+C) Chef de projet
+D) Mandant
+ANSWER: A
+Quel rôle est responsable pour élaborer le concept du produit ?
+A) Représentant des utilisateurs
+B) Architecte informatique
+C) Chef de projet
+D) Business analyst
+ANSWER: A
+Quelle décision parmi les suivantes est prise au niveau "Conduite" ?
+A) Libération de l'exécution
+B) Libération de la phase
+C) Mise en service
+D) Préréception
+ANSWER: D
+Quel rôle est responsable de l'étude ?
+A) Business Analyst
+B) Représentant des utilisateurs
+C) Chef de projet
+D) Mandant
+ANSWER: C
+Quels rôles sont impliqués pour l'élaboration de la liste des parties prenantes ?
+A) Chef de projet, chef de sous-projet, business analyst, assistant de projet
+B) Business analyst, architecte informatique, testeur, développeur
+C) Chef de projet, mandant, représentant des utilisateurs, business analyst
+D) Mandant, business analyst, chef de projet, chef de sous-projet
+ANSWER: C
+Quel énoncé décrit le scénario "Adaptation de la prestation / du produit" ?
+A) Un service ou un produit est développé et mis à disposition.
+B) Un produit ou un service disponible dans l'Organisation permanente adapté et intégré dans l’organisation.
+C) Un produit ou un service disponible sur le marché est acquis et mis en oeuvre et intégré dans l'organisation.
+D) Un service ou un produit est acquis, réalisé et mis à disposition.
+ANSWER: C
+Indiquez quelle description correspond au scénario "Développement de la prestation / du produit".
+A) Réaliser des projets visant à développer une nouvelle solution informatique ou une solution existante répondant aux besoins spécifiques d'un ou plusieurs domaines ou de toute l'organisation
+B) Réaliser des projets visant à acheter une solution informatique disponible sur le marché
+C) Exécution des projets visant à développer et mettre à disposition une prestation ou un produit.
+D) Réaliser des projets dans lesquels un produit ou un service disponible sur le marché est acquis et mis en æuvre et intégré dans l'organisation.
+ANSWER: C
+Quelle description correspond au scénario "Développement de la prestation / du produit" ?
+A) Réalisation des projets visant à développer une nouvelle solution informatique ou une solution existante répondant aux besoins spécifiques d'un ou plusieurs domaines ou de toute l'organisation.
+B) Exécution des projets visant à développer et mettre à disposition une prestation ou un produit.
+C) Réalisation des projets dans lesquels un produit ou un service disponible sur le marché est acquis et mis en æuvre et intégré dans l'organisation.
+D) Exécution des projets visant à mettre en place de nouvelles organisations ou à adapter celles qui existent déjà.
+ANSWER: B
+Les modules suivants des scénarios Prestation / Produit s'étendent sur toutes les phases :
+A) Organisation du projet, Conduite du projet
+B) Organisation du déploiement, Plan de gestion de projet
+C) Pilotage du projet, Conduite du projet
+D) Organisation du déploiement, Pilotage du projet, Conduite du projet
+ANSWER: C
+Sur quelles phases s'étend le module "Organisation du déploiement" dans les scénarios Prestation / Produit avec l'approche agile ?
+A) Initialisation, Conception, Réalisation, Déploiement, Clôture
+B) Conception, Réalisation, Déploiement
+C) Mise en œuvre
+D) toutes les phases
+ANSWER: C
+Le scénario "Développement d'une prestation / d'un produit" comprend les modules  suivants :
+A) Pilotage du projet, Conduite du projet, Produit, Organisation, Organisation du déploiement
+B) Pilotage du projet, Conduite du projet, Achat, Produit, Organisation, Organisation du déploiement
+C) Pilotage du projet, Conduite du projet, Projet, Organisation, Organisation du déploiement
+D) Pilotage du projet, Conduite du projet, Produit, Organisation, Organisation du projet
+ANSWER: A
+Quel module n'appartient pas aux scénarios Prestation / Produit ?
+A) Bases du projet
+B) Pilotage du projet
+C) Organisation
+D) Produit
+ANSWER: A
+Quels sont des jalons du niveau Pilotage dans le scénario Développement de la prestation / du produit avec l'approche agile ?
+A) Interruption du projet, Clôture du projet, Réception
+B) Suite du projet, Libération de l'exécution, Clôture du projet
+C) Libération de l'exécution, Libération de la phase Clôture, Clôture du projet
+D) Libération de l'exécution, Libération de la phase, Clôture du projet
+ANSWER: C
+Dans le modèle agile, le Représentant des utilisateurs ...
+A) ... est l'interlocuteur de l'équipe de développement.
+B) ... conduit l'équipe de développement.
+C) ... n'a aucune responsabilité pour la solution créée par le projet.
+D) ... remplace le rôle du Chef de projet.
+ANSWER: A
+Dans l'approche agile, l'équipe de développement ...
+A) ... est uniquement composée de collaborateurs du partenaire Producteur.
+B) ... ne doit pas comporter des collaborateurs du partenaire Exploitant.
+C) ...  est un groupe de rôles interdisciplinaire.
+D) ... est dirigé par le Représentant des utilisateurs.
+ANSWER: C
+Dans l'approche classique du projet, le Représentant des utilisateurs ...
+A) ... n'est pas responsable pour la solution.
+B) ... est responsable des exigences envers la solution.
+C) ... se fait diriger par le Chef de projet dans la définition des exigences.
+D) ... prend le rôle de "Product Owner".
+ANSWER: B
+Quelle description correspond au rôle "Business Analyst" ?
+A) Le business analyst fait le lien entre les groupes de partenaires Utilisateurs et Producteurs ou Exploitants.
+B) Le business analyst traite les aspects concernant son processus.
+C) Le business analyst soutient le chef de projet en évaluant des résultats.
+D) Le business analyst conçoit, planifie et coordonne les tests.
+ANSWER: A
+Quel rôle est responsable pour le "Mandat d'initialisation du projet" ?
+A) Business analyst
+B) Architecte informatique
+C) Chef de projet
+D) Mandant
+ANSWER: D
+Quel rôle est responsable pour le mandat d'exécution dans le module "Conduite du projet" ?
+A) Business Analyst
+B) Architecte informatique
+C) Chef de projet
+D) Mandant
+ANSWER: C
+Quel rôle est responsable pour le mandat d'exécution dans le module "Pilotage du projet" ?
+A) Business Analyst
+B) Architecte informatique
+C) Chef de projet
+D) Mandant
+ANSWER: D
+Une organisation de projet minimale se compose des rôles suivants :
+A) Mandant et chef de projet
+B) Mandant, chef de projet et représentant des utilisateurs
+C) Mandant, comité spécialisé et chef de projet
+D) Mandant, comité spécialisé, chef de projet et représentants des utilisateurs
+ANSWER: B
+Quels sont les groupes de partenaires dans l'organisation permanente qui sont pertinents pour le projet ?
+A) Direction, assistance de projet, organes de prescription et de contrôle de gestion
+B) Mandant, direction, chef de projet
+C) Direction, centre de compétences en gestion de projets, organes de prescription et de contrôle de gestion
+D) Mandant, comité spécialisé, gestion de la qualité et des risques
+ANSWER: C
+Le rôle de chef de sous-projet peut être occupé par le chef de projet ?
+A) Oui, mais seulement pour les petits projets
+B) Oui
+C) Non
+D) Oui, si le mandant le souhaite
+ANSWER: B
+Combien de rôles comprend une organisation de projet minimale HERMES ?
+A) Un
+B) Deux
+C) Trois
+D) Quatre
+ANSWER: C
+De combien de personnes est composée une organisation de projet HERMES minimale ?
+A) Une
+B) Deux
+C) Trois
+D) Quatre
+ANSWER: B
+Les rôles suivants ne doivent pas être occupés par la même personne :
+A) Chef de projet et représentant des utilisateurs
+B) Mandant et chef de projet
+C) Chef de projet et chef de sous-projet
+D) Comité de pilotage et Comité spécialisé
+ANSWER: B
+Quels rôles doivent toujours être occupés dans chaque projet ?
+A) Mandant, comité de pilotage, chef de projet, représentant des utilisateurs
+B) Mandant, chef de projet, comité spécialisé, représentant des utilisateurs
+C) Mandant, chef de projet, représentant des utilisateurs
+D) Mandant, chef de projet, comité spécialisé, équipe de projet
+ANSWER: C
+Qui nomme le représentant des utilisateurs ?
+A) Business analyst
+B) Architecte informatique
+C) Chef de projet
+D) Mandant
+ANSWER: D
+Lors du développement agile de la solution, quelle position particulière occupe le représentant des utilisateurs ?
+A) Scrum master
+B) Architecte informatique
+C) Product owner
+D) Responsable de la qualité
+ANSWER: C
+Quelle décision ne fait pas partie du module Pilotage du projet?
+A) Décider de la libération de l’initialisation du projet
+B) Décider de la suite du projet
+C) Décider de la libération d’éxécution
+D) Décider de la libération de la phase ou du release
+E) Décider de la clôture du projet
+ANSWER: B
+Quelle tâche ne fait pas partie du module Conduite du projet?
+A) Conduire et contrôler le projet
+B) Elaborer le plan de gestion du projet
+C) Gérer les risques 
+D) Préparer la clôture du projet
+E) Elaborer l’analyse des besoins de protection
+ANSWER: E
+Quel résultat n'est pas produit par la tâche _Elaborer le concept de l’organisation_ ?
+A) Concept organisationnel
+B) Description du modèle d'entreprise
+C) Description du processus
+D) Description de l'organisation
+E) Exigences organisationnelles
+ANSWER: E
+Quelle décision ne fait pas partie du module Organisation du déploiement ?
+A) Décider de la préréception
+B) Décider de la mise en service
+C) Décider de la réception
+D) Décider de l’interruption du projet
+ANSWER: D
+Quel scénario standard choisissez-vous pour le projet outdoorWay ?
+A) Adaptation de l'organisation
+B) Adaptation de la prestation / du produit
+C) Adaptation informatique
+D) Développement de la prestation / du produit
+ANSWER: D
